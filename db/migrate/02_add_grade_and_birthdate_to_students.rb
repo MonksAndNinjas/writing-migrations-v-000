@@ -1,4 +1,4 @@
-class AddGradeBirthdateToStudents < ActiveRecord::Migration[5.1]
-  def change
-  end
-end
+#class AddGradeBirthdateToStudents < ActiveRecord::Migration[5.1]
+#  def change
+#  end
+#end
