@@ -1,0 +1,1 @@
+class AddGradeBirthdateToStudents < ActiveRecord::Migration
